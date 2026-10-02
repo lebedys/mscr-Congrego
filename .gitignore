@@ -1,0 +1,12 @@
+# data/
+plots/
+
+.vscode/
+
+.claude/
+.metadata_cache/
+*.local.md
+*.pyc
+# run logs / scratch output
+*.log
+notebooks/out.txt
